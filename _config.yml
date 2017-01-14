@@ -1,0 +1,74 @@
+layout_spectrum: 0.6505236170300753
+typography_spectrum: 0.8882208757925004
+color:
+  brandStrength: 0.7469151090707002
+  lightness: 0.38226224740358566
+  saturation: 0.9069821719702629
+  rhythmicContrast: 0.8753243773855675
+  brandColors:
+    - '#0D1238'
+    - '#973A55'
+    - '#D2D1D6'
+    - '#FFFDFE'
+    - '#E4B80C'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/751e085c-d194-4db8-9f60-6963e47a8e25.jpg
+name: ' KabakaPyramid'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Twitter
+    url: 'https://www.twitter.com/kabakapyramid'
+    type: external
+  - name: YouTube
+    url: 'https://www.youtube.com/user/KabakaPyramid'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/KabakaPyramid/'
+    type: external
+  - name: Station
+    url: 'https://soundcloud.com/stations/artist/bebblerock'
+    type: external
+  - name: About
+    id: 7b02a029-4ad4-4406-9dd9-cdfe7215876b
+    type: content
+title: ' Kabaka Pyramid'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ddd8295-dc65-4703-8692-ef0dd7c9edfc.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ddd8295-dc65-4703-8692-ef0dd7c9edfc.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Conscious Revolutionary Lyricist
+purpose:
+  - type: contact
+    url: 'mailto:Bebblerock@gmail.com'
+    label: Contact me
+  - type: external
+    url: 'https://soundcloud.com/bebblerock/tracks'
+    label: Listen on SoundCloud
+github: true
